@@ -10,7 +10,7 @@ Soy matemática con experiencia en ciencia de datos, machine learning y optimiza
 
 Una selección de mis trabajos académicos y técnicos:
 
-🔗 [`portfolio-publications`](https://github.com/lauramontes/portfolio-publications)
+🔗 [`portfolio-publications`](https://github.com/lauramontes23/portfolio-publications)
 
 Incluye:
 - Artículos publicados
@@ -27,7 +27,7 @@ Incluye:
 - Visualización y storytelling con datos
 
 Estará disponible pronto en:  
-🔗 [`portfolio-projects`](https://github.com/lauramontes/portfolio-projects) *(privado por ahora)*
+🔗 [`portfolio-projects`](https://github.com/lauramontes23/portfolio-projects) *(privado por ahora)*
 
 ---
 
